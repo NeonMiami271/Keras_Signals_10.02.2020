@@ -1,5 +1,3 @@
-# Keras_Signals_10.02.2020
-
 1. Устанавливаем интерпретатор python и загружаем необходимые библиотеки:
 
                                 sudo apt-get install -y python python-dev
